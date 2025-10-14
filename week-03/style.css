@@ -1,0 +1,27 @@
+body {
+
+    background-color: rgb(89, 17, 83);
+
+}
+
+h1 {
+
+    color: #d9b3ff;
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 38px;
+    border: 8px;
+
+
+}
+
+p {
+    margin: 50px;
+    padding: 35px;
+    font-size: 16pt;
+    border: 2px solid #ffcccc
+}
+
+div {
+    
+}

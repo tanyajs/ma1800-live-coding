@@ -1,0 +1,40 @@
+body {
+
+    background: #ff9999;
+    color: #ffe6ff;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+h1{
+    margin: 0 50px;
+    font-size: 72pt;
+    text-decoration: underline;
+}
+
+
+p {
+    margin: 50px;
+    padding: 25px;
+    font-size: 16px;
+    border: 2px solid #cc00cc;
+}
+
+/*
+ A class starts with a dot (.)
+ and can be reused on many elements 
+ */
+.highlight {
+    background:  #ffccff /* yellow background */
+
+ }
+
+ /* An ID starts with a hash (#)
+ and should only be used once per page 
+ */
+ #cat{
+    font-size: 24pt;
+    font-style: italic;
+    color: #800080;
+ }
